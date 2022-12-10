@@ -109,7 +109,4 @@ begin
 	     out[i]=1'b0;
     end				
 end
-
-
-
 endmodule
